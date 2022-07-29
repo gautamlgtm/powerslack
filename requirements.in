@@ -1,0 +1,10 @@
+flask
+aiohttp
+slack_sdk
+slackeventsapi
+slack
+flask-cors
+requests
+flask-restful
+flask-sqlalchemy
+python-dotenv
